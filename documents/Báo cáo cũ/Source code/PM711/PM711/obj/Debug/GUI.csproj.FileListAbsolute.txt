@@ -1,0 +1,50 @@
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\bin\Debug\PM711.exe.config
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\bin\Debug\PM711.exe
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\bin\Debug\PM711.pdb
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.AddKho.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.DangNhap.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.DoanhThu.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.Kho.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.NhaCungCap.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.Properties.Resources.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.QuanLyDonOnline.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.ThanhToan.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.ChinhSuaNhaCungCap.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.TrangChu.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.exe
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.pdb
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.HoaDon.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\PM711.SanPhamSapHetHan.resources
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\PM711\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\bin\Debug\PM711.exe.config
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\bin\Debug\PM711.exe
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\bin\Debug\PM711.pdb
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\bin\Debug\DTO.dll
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\bin\Debug\DTO.pdb
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\GUI.csproj.ResolveComReference.cache
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.AddKho.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.DangNhap.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.DoanhThu.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.HoaDon.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.Kho.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.NhaCungCap.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.Properties.Resources.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.QuanLyDonOnline.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.SanPhamSapHetHan.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.ThanhToan.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.ChinhSuaNhaCungCap.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.TrangChu.resources
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\GUI.csproj.CopyComplete
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.exe
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\PM711\obj\Debug\PM711.pdb

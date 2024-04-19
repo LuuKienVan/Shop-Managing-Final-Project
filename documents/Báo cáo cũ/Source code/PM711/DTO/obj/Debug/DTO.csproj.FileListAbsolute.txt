@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\CNPM\CK\711\PM711\DTO\obj\Debug\DTO.pdb
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\DTO\bin\Debug\DTO.dll
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\DTO\bin\Debug\DTO.pdb
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\DTO\obj\Debug\DTO.dll
+D:\DH\Năm 3\HK1\CNPM\CK\N5\Source code\PM711\DTO\obj\Debug\DTO.pdb
